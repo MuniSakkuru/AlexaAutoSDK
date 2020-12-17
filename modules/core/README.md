@@ -466,7 +466,7 @@ The following sequence diagram illustrates the flow when your application calls 
 The following sequence diagram illustrates the flow when your application calls `getProperty()` to retrieve a property value from the Engine.
 <details><summary>Click to expand or collapse the diagram</summary>
 <p>
-(./assets/PropertyManager_get.PNG)
+![Set_Property](./assets/PropertyManager_get.PNG)
 </p>
 </details>
 
